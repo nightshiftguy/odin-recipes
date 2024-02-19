@@ -1,0 +1,17 @@
+body{
+    color:lightyellow;
+    background-color: rgb(22, 46, 6);
+    font-family: verdana,Arial, Helvetica, sans-serif;
+}
+
+a:visited{
+    color:rgb(172, 52, 52);
+}
+
+a:link{
+    color: lightcoral;
+}
+
+a:hover{
+    color: rgb(175, 83, 83);
+}
